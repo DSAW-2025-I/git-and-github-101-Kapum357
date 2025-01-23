@@ -6,7 +6,7 @@
 
 ---------------------------
 
-Bienvenido a tu primer taller de la asignatura, para completarlo es necesario que agregues un nuevo commit a este archivo (README.md) donde llenes los siguientes datos:
+Here they are my identification data / contact information :p
 
 - **Krish Aaron Purmessur Moros:**
 - **0000322216**
